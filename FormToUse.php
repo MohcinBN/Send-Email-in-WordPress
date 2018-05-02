@@ -29,11 +29,11 @@
                 </div>
 
                 <div class="form-group">
-                <label for="name">CV</label><input type="file" class="form-control" id="image" name="cv"  required>
+                <label for="name">CV</label><input type="file" class="form-control" id="file" name="cv"  required>
                 </div>
 
                 <div class="form-group">
-                <label for="name">ML</label><input type="file" class="form-control" id="image" name="ml"  required>
+                <label for="name">ML</label><input type="file" class="form-control" id="file" name="ml"  required>
                 </div>
 
                    <button type="submit" class="btn btn-lg btn-success pull-right" id="btnContactUs">Send It</button>
